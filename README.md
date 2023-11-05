@@ -1,7 +1,6 @@
 # Learning Log 📁
 Logging learning progress and projects portfolio.
 
-> **How to use this list**
 > The list comprises the syllabi of learning materials, items marked with 📑 symbolise portfolio projects for reference. *"NP"* denotes *normal projects*, *"FP"* for *final projects*, and *"PP"* designates *portfolio project*. Please utilise `Ctrl + F` (Or `Cmd + F`) for swift navigation.
 
 ## Core Skills 🗝️
